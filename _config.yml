@@ -1,5 +1,5 @@
 title: Tom Hopper # your name (or website title) here
-logo: "/images/IMG_5319.png" # your photo (or logo) here
+logo: "/images/MHP Staff #7_1.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Working at the intersection of data science and public policy
   <br><br>
@@ -7,5 +7,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="www.linkedin.com/in/tom-hopper-1221166">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-timemachine
 google_analytics:  # your Google Analytics tracking ID here
