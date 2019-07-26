@@ -25,11 +25,19 @@ A Shiny app designed to explore the relationship between housing production and 
 [Machine learning to predict future gentrification](/pdf/sample_presentation.pdf)
 <img src="images/migrationwheel.jpg"/>
 Using machine learning and modeling techniques, this project used census-based proxies for gentrification and neighborhood change for the periods 1990-2000 and 2000-2010 in order to construct a predictive model for which census tracts are likely to experience gentrification from 2010-2020. Logit regression, support vector machine and random forest techniwues were combined to create an ensemble model that achieved some level of predictive power (although not particularly strong). Gentrification is an extremely difficult phenomenon to measure, let alone predict, and this research succeeds in demonstrating the nebulous nature of applying conventional analytical methods to the topic.
----------------
 
-# Publications and Presentations
+# Blog articles and presentations
+[Blog - So just how many homes did Waltham allow while gaining 11,000 jobs?](https://www.mhp.net/news/2018/mhp-data-special-so-just-how-many-homes-did-waltham-built-while-adding-11-000-jobs)
+<br>
+[Presentation - The link between housing supply and transportation in Greater Boston](https://www.mhp.net/writable/resources/documents/City_Awake_Housing_transpo.pdf)
+<br>
+In my role at MHP's Center for Housing Data, presented with co-director Callie Clark and spoke on a panel at the Greater Boston Chamber of Commerce's "Our Convention," a day-long convention aimed at young professionals that focuses on policy issues, November 2018.
 
----------------
+<br>
+[Presentation - Using Data to Shape Local Conversations](https://www.mhp.net/writable/resources/documents/CHD-40B-presentation_5-4-18_final.pdf)
+<br>
+In my role at MHP's Center for Housing Data, presented with co-director Callie Clark at Citizen's Housing and Planning Association's (CHAPA) Chapter 40B conference in May 2018.
+
 
 # MHP Center for Housing Data projects and publications
 
