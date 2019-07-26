@@ -4,25 +4,25 @@
 
 ## Personal projects 
 
-###[Station Area Analysis in MA](/sample_page)
+[Station Area Analysis in MA](/sample_page)
 <img src="images/EastWeymouthLayout.jpg"/>
 Using tax parcel data from local assessors' databases (compiled, partially standardized, and made available by MassGIS), I fully standardized parcels within one-quarter mile of commuter rail stations in Massachusetts. This required imputing units counts when unavailable using various statistical methods (details available on project page). Results showed significant variation in residential density within station areas across the commuter rail system, indicating that some communities are embracing transit-oriented neighborhood development more than others. 
 ---
-###[Revere, MA Tax Parcel Analysis](/pdf/sample_presentation.pdf)
+[Revere, MA Tax Parcel Analysis](/pdf/sample_presentation.pdf)
 <img src="images/tm1.png"/>
 This project represents further exploration into the tax assessors' parcel database provided through MassGIS. Parcels in Revere, MA were standardized, grouped and explored in order to better understand the city's land use patterns, real estate values, and potential areas of policy concern. 
 ---
-###[Massachusetts Municipal Demographic and Housing Dashboards](https://github.com/DataHopper/community-profiles)
+[Massachusetts Municipal Demographic and Housing Dashboards](https://github.com/DataHopper/community-profiles)
 <img src="images/Lexington.GIF"/>
 A fully automated tool that relies on data retrieval through the census API as well as data scraped from the Trulia website. This project was an experiment in automating data retrieval, tidying, and visualization for municipal level data. Generation of dashboards is achieved through the use of the flexdashboard package in R. This original exploratory work became the starting point for MHP Center for Housing Data's Shiny app development of the DataTown website.
 ---
 
-###[Metro-to-metro migration and housing production Shiny app](https://datahopper.shinyapps.io/migrationapp_-_competitors/)
+[Metro-to-metro migration and housing production Shiny app](https://datahopper.shinyapps.io/migrationapp_-_competitors/)
 <img src="images/migrationwheel.jpg"/>
 A Shiny app designed to explore the relationship between housing production and net domestic migration among thriving metro areas across the U.S. The app uses plotly to provide interactivity and features a "migration wheel," a custom visualization I designed to allow users to explore the net flow of residents from one city to another.
 ---
 
-###[Machine learning to predict future gentrification](/pdf/sample_presentation.pdf)
+[Machine learning to predict future gentrification](/pdf/sample_presentation.pdf)
 <img src="images/migrationwheel.jpg"/>
 Using machine learning and modeling techniques, this project used census-based proxies for gentrification and neighborhood change for the periods 1990-2000 and 2000-2010 in order to construct a predictive model for which census tracts are likely to experience gentrification from 2010-2020. Logit regression, support vector machine and random forest techniwues were combined to create an ensemble model that achieved some level of predictive power (although not particularly strong). Gentrification is an extremely difficult phenomenon to measure, let alone predict, and this research succeeds in demonstrating the nebulous nature of applying conventional analytical methods to the topic.
 ---------------
@@ -33,7 +33,7 @@ Using machine learning and modeling techniques, this project used census-based p
 
 # MHP Center for Housing Data projects and publications
 
-###[DataTown](www.mhp.net/datatown/)
+[DataTown](www.mhp.net/datatown/)
 <br>
 DataTown is an interactive site that gathers information on the municipal level for all 351 cities and towns in Massachusetts. Our team compiles and tidies data from sources such as the U.S. Census Bureau, The MA Department of Education and the MA Division of Local Services, among others, and allows users to quickly access and explore this data through a series of simple visualizations. Data is accompanied with coaching text to help users interpret the data, and all data and visualizations can be downloaded with a single click. Grab a chart and pop it into a presentation, share on social media, or post in your blog to get a conversation going about housing and demographic needs in your community!
 <br><br>
@@ -41,13 +41,13 @@ DataTown is a team effort at MHP's Center for Housing Data for all maintenance a
 <br><br>
 ------
 <br>
-###[Greater Boston Housing Report Card - The Boston Foundation](https://www.tbf.org/news-and-insights/reports/2019/june/greater-boston-housing-report-card-2019)
+[Greater Boston Housing Report Card - The Boston Foundation](https://www.tbf.org/news-and-insights/reports/2019/june/greater-boston-housing-report-card-2019)
 <br>
 My organization, the Massachusetts Housing Partnership, was part of a research team that created the 2019 Greater Boston Housing Report Card. Our team worked alongside Northeastern University's Dukakis Center and the UMass Donahue Institute to create a fresh new look for this year's publication. The Report Card series has long been an important part of the housing policy dialogue in Massachusetts, and we were incredibly privileged to become part of this legacy. As one of the lead researchers on the team, I created most of the data visualizations across the report, authored much of the 'Core Metrics' section, and designed the methodology, conducted the analysis, and created the data visualizations for the 'Municipal Assessments,' an attempt to score every municipality in Massachusetts on a common set of metrics.
 <br><br>
 ------
 <br>
-###[Parcel + Address Analysis](http://example.com/)
+[Parcel + Address Analysis](http://example.com/)
 <br>
 This is an ongoing effort by our team at the Center for Housing Data to take some of the initial work completed in my personal projects section and create a methodology for combining parcel level counts of housing units across the entire Commonwealth of Massachusetts. This project uses two main data sources, both compiled and maintained by the incredible team at MassGIS: local tax assessors' records for tax parcels and address level point data that is used by the Commonwealth's emergency 911 system. Neither of these sources provides a full and accurate picture of residential units and density across towns, but when combined have the potential to allow for a highly accurate depiction of residential density and use types across the state. Our team intends to use this combined data set to inform important policy decisions around where housing is and should be located to maximize efficiency and sustainability.
 <br><br>
