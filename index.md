@@ -2,18 +2,15 @@
 
 ---
 
-### Category Name 1 
+### Housing Analysis 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Station Area Analysis in MA](/sample_page)
+<img src="images/EastWeymouthLayout.jpg"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Revere, MA Tax Parcel Analysis](/pdf/sample_presentation.pdf)
+<img src="images/tm1.png"/>
+
 
 ---
 
