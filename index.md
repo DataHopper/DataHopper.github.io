@@ -6,19 +6,20 @@
 
 [Station Area Analysis in MA](/sample_page)
 <img src="images/EastWeymouthLayout.jpg"/>
-
+Using tax parcel data from local assessors' databases (compiled, partially standardized, and made available by MassGIS), I fully standardized parcels within one-quarter mile of commuter rail stations in Massachusetts. This required imputing units counts when unavailable using various statistical methods (details available on project page). Results showed significant variation in residential density within station areas across the commuter rail system, indicating that some communities are embracing transit-oriented neighborhood development more than others. 
 ---
 [Revere, MA Tax Parcel Analysis](/pdf/sample_presentation.pdf)
 <img src="images/tm1.png"/>
-
+This project represents further exploration into the tax assessors' parcel database provided through MassGIS. Parcels in Revere, MA were standardized, grouped and explored in order to better understand the city's land use patterns, real estate values, and potential areas of policy concern. 
 ---
 [Massachusetts Municipal Demographic and Housing Dashboards](/pdf/sample_presentation.pdf)
 <img src="images/Lexington.GIF"/>
+A fully automated tool that relies on data retrieval through the census API as well as data scraped from the Trulia website. This project was an experiment in automating data retrieval, tidying, and visualization for municipal level data. Generation of dashboards is achieved through the use of the flexdashboard package in R. This original exploratory work became the starting point for MHP Center for Housing Data's Shiny app development of the DataTown website.
 ---
 
 [Metro-to-metro migration and housing production Shiny app](https://datahopper.shinyapps.io/migrationapp_-_competitors/)
-<img src="images/Lexington.GIF"/>
-
+<img src="images/migrationwheel.png"/>
+A Shiny app designed to explore the relationship between housing production and net domestic migration among thriving metro areas across the U.S. The app uses plotly to provide interactivity and features a "migration wheel," a custom visualization I designed to allow users to explore the net flow of residents from one city to another.
 ---
 
 ### Publications and Presentations
