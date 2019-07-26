@@ -28,12 +28,11 @@ Using machine learning and modeling techniques, this project used census-based p
 
 # Blog articles and presentations
 [Blog - So just how many homes did Waltham allow while gaining 11,000 jobs?](https://www.mhp.net/news/2018/mhp-data-special-so-just-how-many-homes-did-waltham-built-while-adding-11-000-jobs)
-<br>
+<br><br>
 [Presentation - The link between housing supply and transportation in Greater Boston](https://www.mhp.net/writable/resources/documents/City_Awake_Housing_transpo.pdf)
 <br>
 In my role at MHP's Center for Housing Data, presented with co-director Callie Clark and spoke on a panel at the Greater Boston Chamber of Commerce's "Our Convention," a day-long convention aimed at young professionals that focuses on policy issues, November 2018.
-
-<br>
+<br><br>
 [Presentation - Using Data to Shape Local Conversations](https://www.mhp.net/writable/resources/documents/CHD-40B-presentation_5-4-18_final.pdf)
 <br>
 In my role at MHP's Center for Housing Data, presented with co-director Callie Clark at Citizen's Housing and Planning Association's (CHAPA) Chapter 40B conference in May 2018.
