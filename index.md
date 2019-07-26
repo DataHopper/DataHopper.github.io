@@ -4,27 +4,32 @@
 
 ## Personal projects 
 
-[Station Area Analysis in MA](/sample_page)
-<img src="images/EastWeymouthLayout.jpg"/>
+### [Station Area Analysis in MA](/sample_page)
 Using tax parcel data from local assessors' databases (compiled, partially standardized, and made available by MassGIS), I fully standardized parcels within one-quarter mile of commuter rail stations in Massachusetts. This required imputing units counts when unavailable using various statistical methods (details available on project page). Results showed significant variation in residential density within station areas across the commuter rail system, indicating that some communities are embracing transit-oriented neighborhood development more than others. 
+<img src="images/EastWeymouthLayout.jpg"/>
+
 ---
 [Revere, MA Tax Parcel Analysis](/pdf/sample_presentation.pdf)
-<img src="images/tm1.png"/>
 This project represents further exploration into the tax assessors' parcel database provided through MassGIS. Parcels in Revere, MA were standardized, grouped and explored in order to better understand the city's land use patterns, real estate values, and potential areas of policy concern. 
+<img src="images/tm1.png"/>
+
 ---
 [Massachusetts Municipal Demographic and Housing Dashboards](https://github.com/DataHopper/community-profiles)
-<img src="images/Lexington.GIF"/>
 A fully automated tool that relies on data retrieval through the census API as well as data scraped from the Trulia website. This project was an experiment in automating data retrieval, tidying, and visualization for municipal level data. Generation of dashboards is achieved through the use of the flexdashboard package in R. This original exploratory work became the starting point for MHP Center for Housing Data's Shiny app development of the DataTown website.
+<img src="images/Lexington.GIF"/>
+
 ---
 
 [Metro-to-metro migration and housing production Shiny app](https://datahopper.shinyapps.io/migrationapp_-_competitors/)
-<img src="images/migrationwheel.jpg"/>
 A Shiny app designed to explore the relationship between housing production and net domestic migration among thriving metro areas across the U.S. The app uses plotly to provide interactivity and features a "migration wheel," a custom visualization I designed to allow users to explore the net flow of residents from one city to another.
+<img src="images/migrationwheel.jpg"/>
+
 ---
 
 [Machine learning to predict future gentrification](/pdf/sample_presentation.pdf)
-<img src="images/migrationwheel.jpg"/>
 Using machine learning and modeling techniques, this project used census-based proxies for gentrification and neighborhood change for the periods 1990-2000 and 2000-2010 in order to construct a predictive model for which census tracts are likely to experience gentrification from 2010-2020. Logit regression, support vector machine and random forest techniwues were combined to create an ensemble model that achieved some level of predictive power (although not particularly strong). Gentrification is an extremely difficult phenomenon to measure, let alone predict, and this research succeeds in demonstrating the nebulous nature of applying conventional analytical methods to the topic.
+<img src="images/migrationwheel.jpg"/>
+
 
 # Blog articles and presentations
 [Blog - So just how many homes did Waltham allow while gaining 11,000 jobs?](https://www.mhp.net/news/2018/mhp-data-special-so-just-how-many-homes-did-waltham-built-while-adding-11-000-jobs)
