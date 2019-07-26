@@ -12,7 +12,7 @@ Using tax parcel data from local assessors' databases (compiled, partially stand
 <img src="images/tm1.png"/>
 This project represents further exploration into the tax assessors' parcel database provided through MassGIS. Parcels in Revere, MA were standardized, grouped and explored in order to better understand the city's land use patterns, real estate values, and potential areas of policy concern. 
 ---
-[Massachusetts Municipal Demographic and Housing Dashboards](/pdf/sample_presentation.pdf)
+[Massachusetts Municipal Demographic and Housing Dashboards](https://github.com/DataHopper/community-profiles)
 <img src="images/Lexington.GIF"/>
 A fully automated tool that relies on data retrieval through the census API as well as data scraped from the Trulia website. This project was an experiment in automating data retrieval, tidying, and visualization for municipal level data. Generation of dashboards is achieved through the use of the flexdashboard package in R. This original exploratory work became the starting point for MHP Center for Housing Data's Shiny app development of the DataTown website.
 ---
