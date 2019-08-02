@@ -35,7 +35,6 @@ A Shiny app designed to explore the relationship between housing production and 
 
 ### [Machine learning to predict future gentrification](https://github.com/DataHopper/predicting-gentrification)
 Using machine learning and modeling techniques, this project used census-based proxies for gentrification and neighborhood change for the periods 1990-2000 and 2000-2010 in order to construct a predictive model for which census tracts are likely to experience gentrification from 2010-2020. Logit regression, support vector machine and random forest techniwues were combined to create an ensemble model that achieved some level of predictive power (although not particularly strong). Gentrification is an extremely difficult phenomenon to measure, let alone predict, and this research succeeds in demonstrating the nebulous nature of applying conventional analytical methods to the topic.
-<img src="images/migrationwheel.jpg"/>
 <br><br><br>
 
 # Blog articles and presentations
