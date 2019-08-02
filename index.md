@@ -5,15 +5,6 @@ While most of my work is focused on housing policy, my interests lie in connecti
 
 Check out some work samples from my portfolio below, as well as some of the work I've done at MHP's Center for Housing Data.
 
-## Avanced technical skills
-#### R 
-#### Shiny
-#### GIS (ArcGIS, QGIS, mapping in R)
-
-## Skills I'm actively building
-#### Python
-#### Javascript
-
 # [CV](/pdf/Tom Hopper CV.pdf)
 
 # Portfolio
