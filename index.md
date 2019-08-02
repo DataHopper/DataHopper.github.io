@@ -1,7 +1,23 @@
+# Bio
+I am a data scientist working in the housing policy world. I am the Director of Research & Analytics at the Massachusetts Housing Partnership (MHP), a quasi-public affordable housing agency. In that role, I oversee the public policy research and analysis that drives MHP's Center for Housing Data. I received a BA in Economics and an MA in City Planning from Boston University, and an MS in Urban Informatics from Northeastern University.
+
+While most of my work is focused on housing policy, my interests lie in connecting housing issues with other important urban systems such as transit and the environment. Cities and regions are incredibly complex and interconnected, and I believe we can't understand one component unless we know how it relates to the entire urban fabric. I strive to use data science to better evaluate important topics such as diversity, equity and power in the way cities and regions are organized. 
+
+Check out some work samples from my portfolio below, as well as some of the work I've done at MHP's Center for Housing Data
+
+## Avanced technical skills
+#### R 
+#### Shiny
+#### GIS (ArcGIS, QGIS, mapping in R)
+
+## Skills I'm actively building
+#### Python
+#### Javascript
+
+# [CV](https://github.com/DataHopper/TOD-parcels)
+
 # Portfolio
-
 ---
-
 ## Personal projects 
 
 ### [Station Area Analysis in MA](https://github.com/DataHopper/TOD-parcels)
