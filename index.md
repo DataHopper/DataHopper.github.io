@@ -14,7 +14,7 @@ Check out some work samples from my portfolio below, as well as some of the work
 #### Python
 #### Javascript
 
-# [CV](https://github.com/DataHopper/TOD-parcels)
+# [CV](/pdf/Tom Hopper CV.pdf)
 
 # Portfolio
 ---
