@@ -62,17 +62,4 @@ DataTown is a team effort at MHP's Center for Housing Data for all maintenance a
 
 My organization, the Massachusetts Housing Partnership, was part of a research team that created the 2019 Greater Boston Housing Report Card. Our team worked alongside Northeastern University's Dukakis Center and the UMass Donahue Institute to create a fresh new look for this year's publication. The Report Card series has long been an important part of the housing policy dialogue in Massachusetts, and we were incredibly privileged to become part of this legacy. As one of the lead researchers on the team, I created most of the data visualizations across the report, authored much of the 'Core Metrics' section, and designed the methodology, conducted the analysis, and created the data visualizations for the 'Municipal Assessments,' an attempt to score every municipality in Massachusetts on a common set of metrics.
 <br><br>
-------
-<br>
-### [Parcel + Address Analysis](http://example.com/)
 
-This is an ongoing effort by our team at the Center for Housing Data to take some of the initial work completed in my personal projects section and create a methodology for combining parcel level counts of housing units across the entire Commonwealth of Massachusetts. This project uses two main data sources, both compiled and maintained by the incredible team at MassGIS: local tax assessors' records for tax parcels and address level point data that is used by the Commonwealth's emergency 911 system. Neither of these sources provides a full and accurate picture of residential units and density across towns, but when combined have the potential to allow for a highly accurate depiction of residential density and use types across the state. Our team intends to use this combined data set to inform important policy decisions around where housing is and should be located to maximize efficiency and sustainability.
-<br><br>
-------
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
