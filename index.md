@@ -50,7 +50,7 @@ In my role at MHP's Center for Housing Data, presented with co-director Callie C
 <br><br><br>
 # MHP Center for Housing Data projects and publications
 
-### [DataTown](http://www.mhp.net/datatown/)
+### [DataTown](https://mhpcenterforhousingdata.shinyapps.io/DataTown/)
 
 DataTown is an interactive site that gathers information on the municipal level for all 351 cities and towns in Massachusetts. Our team compiles and tidies data from sources such as the U.S. Census Bureau, The MA Department of Education and the MA Division of Local Services, among others, and allows users to quickly access and explore this data through a series of simple visualizations. Data is accompanied with coaching text to help users interpret the data, and all data and visualizations can be downloaded with a single click. Grab a chart and pop it into a presentation, share on social media, or post in your blog to get a conversation going about housing and demographic needs in your community!
 <br><br>
